@@ -49,4 +49,4 @@ CURRENT DATABASE IS OFFLINE
 
 Project by: 	Zachary Blouin
 
-Source Code: 	https://github.com/Cazac/ClassScheduler
+Source Code: 	https://github.com/Cazac/KPU-FacultyScheduler_2018
